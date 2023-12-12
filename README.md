@@ -9,7 +9,8 @@
 
 ## • Amerigo Laundromat
 
-	Amerigo Laundromat is a laundry management solution that records customer laundry request type and manages them with administrators, finance and courier personnel section of the company. The product and transactions details of laundry services to customers are updated to customers account and are then delivered by the courier to various customer outlets.
+ Amerigo Laundromat is a laundry management solution that records customer laundry request type and manages them with administrators, finance and courier personnel section of the company. 
+ The product and transactions details of laundry services to customers are updated to customers account and are then delivered by the courier to various customer outlets.
 
     This project was developed using the following:
 
